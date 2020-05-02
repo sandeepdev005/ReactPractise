@@ -1,0 +1,17 @@
+{
+  "name": "ReactPractise",
+  "displayName": "ReactPractise",
+  "expo": {
+    "name": "ReactPractise",
+    "slug": "ReactPractise",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
